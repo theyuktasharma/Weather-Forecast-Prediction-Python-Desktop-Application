@@ -1,0 +1,4 @@
+Day 1 is a good day to visit where weather conditions are clear sky 
+ Temperature : 30.32 C 
+ Maximum Temperature : 29.00 C 
+ Minimum Temperature : 30.32 C 

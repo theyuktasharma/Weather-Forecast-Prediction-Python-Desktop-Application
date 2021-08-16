@@ -1,0 +1,5 @@
+Temperature : 304.15
+Wind Speed : 4.1m/s
+Latitude : 19.01
+Longitude : 72.85
+Description : haze

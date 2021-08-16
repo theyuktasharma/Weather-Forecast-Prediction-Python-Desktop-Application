@@ -1,0 +1,3 @@
+The minimum temperature of 1th day is 29.000000
+The minimum temperature of 2th day is 28.800000
+The minimum temperature of 3th day is 28.500000

@@ -1,0 +1,3 @@
+The maximum temperature of 1th day is 30.320000
+The maximum temperature of 2th day is 29.790000
+The maximum temperature of 3th day is 29.160000
